@@ -23,9 +23,9 @@ This is an interactive dashboard created using **Google Looker Studio** to visua
 
 ## 📷 Dashboard Preview
 
-| Overview | Filters |
-|----------|---------|
-| ![Dashboard Overview](D:\Wave_Shoes_Store_Dashboard\Dashboard SS.png) |
+| Overview |
+|----------|
+| ![Dashboard Overview](Dashboard SS.png) |
 
 ---
 
