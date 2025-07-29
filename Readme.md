@@ -21,21 +21,8 @@ This is an interactive dashboard created using **Google Looker Studio** to visua
 
 ---
 
-## 📷 Dashboard Preview
-
-| Overview |
-|----------|
-| ![Dashboard Overview](Dashboard SS.png) |
-
----
-
 ## 🔗 Live Dashboard Link
 👉 [Click here to view the dashboard](https://lookerstudio.google.com/s/g_Wisr_sEX0)
-
----
-
-## 📄 PDF Report
-Available on request
 
 ---
 
