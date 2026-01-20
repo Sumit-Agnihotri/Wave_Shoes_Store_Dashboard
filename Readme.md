@@ -1,4 +1,4 @@
-# 📊 Customer Churn Dashboard – Looker Studio
+# 📊 Waves Shoes Sales Dashboard – Looker Studio
 
 ## 🔍 Project Overview
 This is an interactive dashboard created using **Google Looker Studio** to visualize and analyze customer churn patterns. The dashboard provides a clear overview of key metrics and allows users to explore churn behavior through dynamic filters.
